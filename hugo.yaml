@@ -1,0 +1,8 @@
+baseURL: 'https://marwa.gorvan.com/'
+languageCode: 'en-GB'
+title: 'marwa.gorvan.com'
+theme: 'PaperMod'
+params:
+  disableThemeToggle: true
+  homeInfoParams:
+    Title: 
