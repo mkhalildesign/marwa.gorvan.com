@@ -1,18 +1,22 @@
-body {
-    
+body#top {
+    background: url('/images/background.png');
 }
 
 .home-info {
-    border: 1px solid #ccc;
+    background: #fff2f7;
+    color: #333;
+}
+
+.home-info header h1 {
+    color: #333;
 }
 
 .marquee {
-    top: 0;
-    left: 0;
-    right: 0;
+    position: relative;
     height: 50px;
     overflow: hidden;
-    position: absolute;
+    background: #d8cbe3;
+    color: black;
 }
 
 div.marquee p {
@@ -28,6 +32,16 @@ div.marquee p {
     -moz-animation: scroll-left 2s linear infinite;
     -webkit-animation: scroll-left 2s linear infinite;
     animation: scroll-left 20s linear infinite;
+}
+
+.catbar {
+    position: relative;
+    height: 32px;
+}
+
+.catbar img {
+    position: relative;
+    margin: 0 auto;
 }
 
 @-moz-keyframes scroll-left {

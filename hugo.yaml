@@ -6,4 +6,15 @@ params:
   disableThemeToggle: true
   hideFooter: true
   homeInfoParams:
-    Title: 
+    Title: Product designer with creative specialisation in UX within enterprise and process digital design
+    Content: I am a product designer and creative specialising in UX and UI within enterprise and B2B platforms. I work on developing products and design systems, as well as occasionallly [writing](https://mkhalildesign.com).
+    AlignSocialIconsTo: "center"
+  blinkies:
+    - name: 'LinkedIn'
+      url: 'https://linkedin.com/'
+      image: '/images/mg-blinkie-linkedin.gif'
+    - name: 'Shop'
+      url: 'https://mkhalildesign.com/'
+      image: '/images/mg-blinkie-shop.gif'
+  label:
+    iconHeight: 20

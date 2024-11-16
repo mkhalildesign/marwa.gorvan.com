@@ -1,0 +1,28 @@
+<div class="social-icons" {{ with .align}}align="{{.}}" {{- end }}>
+    <p>Find me online</p>
+    {{- range site.Params.blinkies }}
+    <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me"
+        title="{{ (.title | default .name) | title }}">
+        {{- $img := resources.Get .image }}
+        {{- if $img }}
+            {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
+            {{- if hugo.IsExtended -}}
+                {{- $processableFormats = $processableFormats | append "webp" -}}
+            {{- end -}}
+            {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
+            {{- if and (in $processableFormats $img.MediaType.SubType) (eq $prod true)}}
+                {{- if site.Params.label.iconHeight }}
+                    {{- $img = $img.Resize (printf "x%d" site.Params.label.iconHeight) }}
+                {{ else }}
+                    {{- $img = $img.Resize "x30" }}
+                {{- end }}
+            {{- end }}
+            <img src="{{ $img.Permalink }}" alt="" aria-label="{{ .name }}"
+                height="{{- site.Params.label.iconHeight | default "30" -}}">
+        {{- else }}
+            <img src="{{- .image | absURL -}}" alt="" aria-label="{{ .name }}"
+                height="{{- site.Params.label.iconHeight | default "30" -}}">
+        {{- end }}
+    </a>
+    {{- end }}
+</div>
