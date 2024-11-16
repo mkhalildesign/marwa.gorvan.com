@@ -22,8 +22,15 @@ params:
     - name: 'Shop'
       url: 'https://society6.com/a/artists/mkhalildesigns'
       image: '/images/mg-blinkie-shop.gif'
+  blinkiesHeight: 20
   contact:
     email: 'marwa@gorvan.com'
     image: '/images/mg-button-email.gif'
   label:
-    iconHeight: 20
+    iconHeight: 50
+    text: 'Marwa Gorvan'
+    icon: '/images/logo.png'
+  assets:
+    favicon: '/images/logo.png'
+    favicon16x16: '/images/logo.png'
+    favicon32x32: '/images/logo.png'
