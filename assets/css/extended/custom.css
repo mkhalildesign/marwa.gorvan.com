@@ -9,6 +9,7 @@ body#top {
     color: #333;
     display: block;
     padding-bottom: 60px;
+    margin-bottom: 10px;
 }
 
 .home-info header h1 {
@@ -85,6 +86,21 @@ footer.entry-footer p a {
     font-optical-sizing: auto;
     font-weight: bold;
     font-style: normal;
+}
+
+.copyright {
+    font-size: 10px;
+    color: #d8cbe3;
+    text-align: center;
+}
+
+a {
+    color: hotpink;
+}
+
+
+a:hover {
+    color: black;
 }
 
 @-moz-keyframes scroll-left {
