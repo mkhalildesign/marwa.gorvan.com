@@ -2,7 +2,7 @@
 <article class="first-entry home-info">
     <header class="entry-header">
         <div class="marquee">
-            <p>Why did the chicken cross the road</p>
+            <p id="joke"></p>
         </div>
         <h1>{{ .Title | markdownify }}</h1>
     </header>
@@ -11,6 +11,33 @@
     </div>
     <footer class="entry-footer">
         {{ partial "blinkies.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
+        <div class="contact">
+            <h3 class="playfair-bold">Contact</h3>
+            <p>
+                <a href="mailto:{{ site.Params.contact.email }}" target="_blank" rel="noopener noreferrer me">
+                {{- $img := resources.Get site.Params.contact.image }}
+                {{- if $img }}
+                    {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
+                    {{- if hugo.IsExtended -}}
+                        {{- $processableFormats = $processableFormats | append "webp" -}}
+                    {{- end -}}
+                    {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
+                    {{- if and (in $processableFormats $img.MediaType.SubType) (eq $prod true)}}
+                        {{- if site.Params.label.iconHeight }}
+                            {{- $img = $img.Resize (printf "x%d" site.Params.label.iconHeight) }}
+                        {{ else }}
+                            {{- $img = $img.Resize "x30" }}
+                        {{- end }}
+                    {{- end }}
+                    <img src="{{ $img.Permalink }}" alt="" aria-label="{{ .name }}"
+                        height="{{- site.Params.label.iconHeight | default "30" -}}">
+                {{- else }}
+                    <img src="{{- site.Params.contact.image | absURL -}}" alt=""
+                        height="{{- site.Params.label.iconHeight | default "30" -}}">
+                {{- end }}
+                </a>
+            </p>
+        </div>
     </footer>
     <div class="catbar">
         <img src="/images/cat.gif" alt="" aria-label="cat" />

@@ -1,5 +1,5 @@
 <div class="social-icons" {{ with .align}}align="{{.}}" {{- end }}>
-    <p>Find me online</p>
+    <h3 class="playfair-bold">Find me online</h3>
     {{- range site.Params.blinkies }}
     <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me"
         title="{{ (.title | default .name) | title }}">

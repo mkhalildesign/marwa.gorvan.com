@@ -1,14 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
 body#top {
-    background: url('/images/background.png');
+    background: url('/images/bg.svg');
 }
 
 .home-info {
     background: #fff2f7;
     color: #333;
+    display: block;
+    padding-bottom: 60px;
 }
 
 .home-info header h1 {
     color: #333;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    padding: 20px 20px;
+}
+
+.home-info .entry-content {
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
 }
 
 .marquee {
@@ -34,14 +49,42 @@ div.marquee p {
     animation: scroll-left 20s linear infinite;
 }
 
+.contact a {
+    margin: 10px;
+}
+
+.social-icons {
+    margin: 30px 0;
+}
+
+footer.entry-footer > * {
+    text-align: center;
+    display: block;
+}
+
+footer.entry-footer p a {
+    display: inline-block;
+}
+
 .catbar {
-    position: relative;
-    height: 32px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
 }
 
 .catbar img {
     position: relative;
     margin: 0 auto;
+}
+
+.playfair-bold {
+    color: #333;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
 }
 
 @-moz-keyframes scroll-left {
