@@ -1,7 +1,7 @@
 const jokes = [
     "★ Why did the scarecrow win an award? Because he was outstanding in his field ★",
-    "★ What should you never trust an atom? Because they make up everything ★",
-    "★ How does a penguin build its house? Igloos it together ★"
+    "★ Why should you never trust an atom? Because they make up everything ★",
+    "★ How does a penguin build its house? Igloos it together ★",
     "★ A dung beetle walks into a bar and asks 'Is this stool taken?' ★",
     "★ What do you call a cow with a twitch? Beef jerky ★",
 ];
