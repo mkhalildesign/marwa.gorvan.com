@@ -1,0 +1,731 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_209_28713)">
+<rect width="100" height="100" fill="#333333"/>
+<g clip-path="url(#clip1_209_28713)">
+<line x1="9.5" x2="9.5" y2="10" stroke="#444444"/>
+<line y1="9.5" x2="10" y2="9.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip2_209_28713)">
+<line x1="19.5" x2="19.5" y2="10" stroke="#444444"/>
+<line x1="10" y1="9.5" x2="20" y2="9.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip3_209_28713)">
+<line x1="29.5" x2="29.5" y2="10" stroke="#444444"/>
+<line x1="20" y1="9.5" x2="30" y2="9.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip4_209_28713)">
+<line x1="39.5" x2="39.5" y2="10" stroke="#444444"/>
+<line x1="30" y1="9.5" x2="40" y2="9.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip5_209_28713)">
+<line x1="49.5" x2="49.5" y2="10" stroke="#444444"/>
+<line x1="40" y1="9.5" x2="50" y2="9.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip6_209_28713)">
+<line x1="59.5" x2="59.5" y2="10" stroke="#444444"/>
+<line x1="50" y1="9.5" x2="60" y2="9.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip7_209_28713)">
+<line x1="69.5" x2="69.5" y2="10" stroke="#444444"/>
+<line x1="60" y1="9.5" x2="70" y2="9.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip8_209_28713)">
+<line x1="79.5" x2="79.5" y2="10" stroke="#444444"/>
+<line x1="70" y1="9.5" x2="80" y2="9.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip9_209_28713)">
+<line x1="89.5" x2="89.5" y2="10" stroke="#444444"/>
+<line x1="80" y1="9.5" x2="90" y2="9.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip10_209_28713)">
+<line x1="99.5" x2="99.5" y2="10" stroke="#444444"/>
+<line x1="90" y1="9.5" x2="100" y2="9.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip11_209_28713)">
+<line x1="9.5" y1="10" x2="9.5" y2="20" stroke="#444444"/>
+<line y1="19.5" x2="10" y2="19.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip12_209_28713)">
+<line x1="19.5" y1="10" x2="19.5" y2="20" stroke="#444444"/>
+<line x1="10" y1="19.5" x2="20" y2="19.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip13_209_28713)">
+<line x1="29.5" y1="10" x2="29.5" y2="20" stroke="#444444"/>
+<line x1="20" y1="19.5" x2="30" y2="19.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip14_209_28713)">
+<line x1="39.5" y1="10" x2="39.5" y2="20" stroke="#444444"/>
+<line x1="30" y1="19.5" x2="40" y2="19.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip15_209_28713)">
+<line x1="49.5" y1="10" x2="49.5" y2="20" stroke="#444444"/>
+<line x1="40" y1="19.5" x2="50" y2="19.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip16_209_28713)">
+<line x1="59.5" y1="10" x2="59.5" y2="20" stroke="#444444"/>
+<line x1="50" y1="19.5" x2="60" y2="19.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip17_209_28713)">
+<line x1="69.5" y1="10" x2="69.5" y2="20" stroke="#444444"/>
+<line x1="60" y1="19.5" x2="70" y2="19.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip18_209_28713)">
+<line x1="79.5" y1="10" x2="79.5" y2="20" stroke="#444444"/>
+<line x1="70" y1="19.5" x2="80" y2="19.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip19_209_28713)">
+<line x1="89.5" y1="10" x2="89.5" y2="20" stroke="#444444"/>
+<line x1="80" y1="19.5" x2="90" y2="19.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip20_209_28713)">
+<line x1="99.5" y1="10" x2="99.5" y2="20" stroke="#444444"/>
+<line x1="90" y1="19.5" x2="100" y2="19.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip21_209_28713)">
+<line x1="9.5" y1="20" x2="9.5" y2="30" stroke="#444444"/>
+<line y1="29.5" x2="10" y2="29.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip22_209_28713)">
+<line x1="19.5" y1="20" x2="19.5" y2="30" stroke="#444444"/>
+<line x1="10" y1="29.5" x2="20" y2="29.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip23_209_28713)">
+<line x1="29.5" y1="20" x2="29.5" y2="30" stroke="#444444"/>
+<line x1="20" y1="29.5" x2="30" y2="29.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip24_209_28713)">
+<line x1="39.5" y1="20" x2="39.5" y2="30" stroke="#444444"/>
+<line x1="30" y1="29.5" x2="40" y2="29.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip25_209_28713)">
+<line x1="49.5" y1="20" x2="49.5" y2="30" stroke="#444444"/>
+<line x1="40" y1="29.5" x2="50" y2="29.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip26_209_28713)">
+<line x1="59.5" y1="20" x2="59.5" y2="30" stroke="#444444"/>
+<line x1="50" y1="29.5" x2="60" y2="29.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip27_209_28713)">
+<line x1="69.5" y1="20" x2="69.5" y2="30" stroke="#444444"/>
+<line x1="60" y1="29.5" x2="70" y2="29.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip28_209_28713)">
+<line x1="79.5" y1="20" x2="79.5" y2="30" stroke="#444444"/>
+<line x1="70" y1="29.5" x2="80" y2="29.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip29_209_28713)">
+<line x1="89.5" y1="20" x2="89.5" y2="30" stroke="#444444"/>
+<line x1="80" y1="29.5" x2="90" y2="29.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip30_209_28713)">
+<line x1="99.5" y1="20" x2="99.5" y2="30" stroke="#444444"/>
+<line x1="90" y1="29.5" x2="100" y2="29.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip31_209_28713)">
+<line x1="9.5" y1="30" x2="9.5" y2="40" stroke="#444444"/>
+<line y1="39.5" x2="10" y2="39.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip32_209_28713)">
+<line x1="19.5" y1="30" x2="19.5" y2="40" stroke="#444444"/>
+<line x1="10" y1="39.5" x2="20" y2="39.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip33_209_28713)">
+<line x1="29.5" y1="30" x2="29.5" y2="40" stroke="#444444"/>
+<line x1="20" y1="39.5" x2="30" y2="39.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip34_209_28713)">
+<line x1="39.5" y1="30" x2="39.5" y2="40" stroke="#444444"/>
+<line x1="30" y1="39.5" x2="40" y2="39.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip35_209_28713)">
+<line x1="49.5" y1="30" x2="49.5" y2="40" stroke="#444444"/>
+<line x1="40" y1="39.5" x2="50" y2="39.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip36_209_28713)">
+<line x1="59.5" y1="30" x2="59.5" y2="40" stroke="#444444"/>
+<line x1="50" y1="39.5" x2="60" y2="39.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip37_209_28713)">
+<line x1="69.5" y1="30" x2="69.5" y2="40" stroke="#444444"/>
+<line x1="60" y1="39.5" x2="70" y2="39.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip38_209_28713)">
+<line x1="79.5" y1="30" x2="79.5" y2="40" stroke="#444444"/>
+<line x1="70" y1="39.5" x2="80" y2="39.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip39_209_28713)">
+<line x1="89.5" y1="30" x2="89.5" y2="40" stroke="#444444"/>
+<line x1="80" y1="39.5" x2="90" y2="39.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip40_209_28713)">
+<line x1="99.5" y1="30" x2="99.5" y2="40" stroke="#444444"/>
+<line x1="90" y1="39.5" x2="100" y2="39.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip41_209_28713)">
+<line x1="9.5" y1="40" x2="9.5" y2="50" stroke="#444444"/>
+<line y1="49.5" x2="10" y2="49.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip42_209_28713)">
+<line x1="19.5" y1="40" x2="19.5" y2="50" stroke="#444444"/>
+<line x1="10" y1="49.5" x2="20" y2="49.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip43_209_28713)">
+<line x1="29.5" y1="40" x2="29.5" y2="50" stroke="#444444"/>
+<line x1="20" y1="49.5" x2="30" y2="49.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip44_209_28713)">
+<line x1="39.5" y1="40" x2="39.5" y2="50" stroke="#444444"/>
+<line x1="30" y1="49.5" x2="40" y2="49.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip45_209_28713)">
+<line x1="49.5" y1="40" x2="49.5" y2="50" stroke="#444444"/>
+<line x1="40" y1="49.5" x2="50" y2="49.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip46_209_28713)">
+<line x1="59.5" y1="40" x2="59.5" y2="50" stroke="#444444"/>
+<line x1="50" y1="49.5" x2="60" y2="49.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip47_209_28713)">
+<line x1="69.5" y1="40" x2="69.5" y2="50" stroke="#444444"/>
+<line x1="60" y1="49.5" x2="70" y2="49.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip48_209_28713)">
+<line x1="79.5" y1="40" x2="79.5" y2="50" stroke="#444444"/>
+<line x1="70" y1="49.5" x2="80" y2="49.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip49_209_28713)">
+<line x1="89.5" y1="40" x2="89.5" y2="50" stroke="#444444"/>
+<line x1="80" y1="49.5" x2="90" y2="49.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip50_209_28713)">
+<line x1="99.5" y1="40" x2="99.5" y2="50" stroke="#444444"/>
+<line x1="90" y1="49.5" x2="100" y2="49.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip51_209_28713)">
+<line x1="9.5" y1="50" x2="9.5" y2="60" stroke="#444444"/>
+<line y1="59.5" x2="10" y2="59.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip52_209_28713)">
+<line x1="19.5" y1="50" x2="19.5" y2="60" stroke="#444444"/>
+<line x1="10" y1="59.5" x2="20" y2="59.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip53_209_28713)">
+<line x1="29.5" y1="50" x2="29.5" y2="60" stroke="#444444"/>
+<line x1="20" y1="59.5" x2="30" y2="59.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip54_209_28713)">
+<line x1="39.5" y1="50" x2="39.5" y2="60" stroke="#444444"/>
+<line x1="30" y1="59.5" x2="40" y2="59.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip55_209_28713)">
+<line x1="49.5" y1="50" x2="49.5" y2="60" stroke="#444444"/>
+<line x1="40" y1="59.5" x2="50" y2="59.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip56_209_28713)">
+<line x1="59.5" y1="50" x2="59.5" y2="60" stroke="#444444"/>
+<line x1="50" y1="59.5" x2="60" y2="59.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip57_209_28713)">
+<line x1="69.5" y1="50" x2="69.5" y2="60" stroke="#444444"/>
+<line x1="60" y1="59.5" x2="70" y2="59.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip58_209_28713)">
+<line x1="79.5" y1="50" x2="79.5" y2="60" stroke="#444444"/>
+<line x1="70" y1="59.5" x2="80" y2="59.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip59_209_28713)">
+<line x1="89.5" y1="50" x2="89.5" y2="60" stroke="#444444"/>
+<line x1="80" y1="59.5" x2="90" y2="59.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip60_209_28713)">
+<line x1="99.5" y1="50" x2="99.5" y2="60" stroke="#444444"/>
+<line x1="90" y1="59.5" x2="100" y2="59.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip61_209_28713)">
+<line x1="9.5" y1="60" x2="9.5" y2="70" stroke="#444444"/>
+<line y1="69.5" x2="10" y2="69.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip62_209_28713)">
+<line x1="19.5" y1="60" x2="19.5" y2="70" stroke="#444444"/>
+<line x1="10" y1="69.5" x2="20" y2="69.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip63_209_28713)">
+<line x1="29.5" y1="60" x2="29.5" y2="70" stroke="#444444"/>
+<line x1="20" y1="69.5" x2="30" y2="69.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip64_209_28713)">
+<line x1="39.5" y1="60" x2="39.5" y2="70" stroke="#444444"/>
+<line x1="30" y1="69.5" x2="40" y2="69.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip65_209_28713)">
+<line x1="49.5" y1="60" x2="49.5" y2="70" stroke="#444444"/>
+<line x1="40" y1="69.5" x2="50" y2="69.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip66_209_28713)">
+<line x1="59.5" y1="60" x2="59.5" y2="70" stroke="#444444"/>
+<line x1="50" y1="69.5" x2="60" y2="69.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip67_209_28713)">
+<line x1="69.5" y1="60" x2="69.5" y2="70" stroke="#444444"/>
+<line x1="60" y1="69.5" x2="70" y2="69.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip68_209_28713)">
+<line x1="79.5" y1="60" x2="79.5" y2="70" stroke="#444444"/>
+<line x1="70" y1="69.5" x2="80" y2="69.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip69_209_28713)">
+<line x1="89.5" y1="60" x2="89.5" y2="70" stroke="#444444"/>
+<line x1="80" y1="69.5" x2="90" y2="69.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip70_209_28713)">
+<line x1="99.5" y1="60" x2="99.5" y2="70" stroke="#444444"/>
+<line x1="90" y1="69.5" x2="100" y2="69.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip71_209_28713)">
+<line x1="9.5" y1="70" x2="9.5" y2="80" stroke="#444444"/>
+<line y1="79.5" x2="10" y2="79.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip72_209_28713)">
+<line x1="19.5" y1="70" x2="19.5" y2="80" stroke="#444444"/>
+<line x1="10" y1="79.5" x2="20" y2="79.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip73_209_28713)">
+<line x1="29.5" y1="70" x2="29.5" y2="80" stroke="#444444"/>
+<line x1="20" y1="79.5" x2="30" y2="79.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip74_209_28713)">
+<line x1="39.5" y1="70" x2="39.5" y2="80" stroke="#444444"/>
+<line x1="30" y1="79.5" x2="40" y2="79.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip75_209_28713)">
+<line x1="49.5" y1="70" x2="49.5" y2="80" stroke="#444444"/>
+<line x1="40" y1="79.5" x2="50" y2="79.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip76_209_28713)">
+<line x1="59.5" y1="70" x2="59.5" y2="80" stroke="#444444"/>
+<line x1="50" y1="79.5" x2="60" y2="79.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip77_209_28713)">
+<line x1="69.5" y1="70" x2="69.5" y2="80" stroke="#444444"/>
+<line x1="60" y1="79.5" x2="70" y2="79.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip78_209_28713)">
+<line x1="79.5" y1="70" x2="79.5" y2="80" stroke="#444444"/>
+<line x1="70" y1="79.5" x2="80" y2="79.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip79_209_28713)">
+<line x1="89.5" y1="70" x2="89.5" y2="80" stroke="#444444"/>
+<line x1="80" y1="79.5" x2="90" y2="79.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip80_209_28713)">
+<line x1="99.5" y1="70" x2="99.5" y2="80" stroke="#444444"/>
+<line x1="90" y1="79.5" x2="100" y2="79.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip81_209_28713)">
+<line x1="9.5" y1="80" x2="9.5" y2="90" stroke="#444444"/>
+<line y1="89.5" x2="10" y2="89.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip82_209_28713)">
+<line x1="19.5" y1="80" x2="19.5" y2="90" stroke="#444444"/>
+<line x1="10" y1="89.5" x2="20" y2="89.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip83_209_28713)">
+<line x1="29.5" y1="80" x2="29.5" y2="90" stroke="#444444"/>
+<line x1="20" y1="89.5" x2="30" y2="89.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip84_209_28713)">
+<line x1="39.5" y1="80" x2="39.5" y2="90" stroke="#444444"/>
+<line x1="30" y1="89.5" x2="40" y2="89.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip85_209_28713)">
+<line x1="49.5" y1="80" x2="49.5" y2="90" stroke="#444444"/>
+<line x1="40" y1="89.5" x2="50" y2="89.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip86_209_28713)">
+<line x1="59.5" y1="80" x2="59.5" y2="90" stroke="#444444"/>
+<line x1="50" y1="89.5" x2="60" y2="89.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip87_209_28713)">
+<line x1="69.5" y1="80" x2="69.5" y2="90" stroke="#444444"/>
+<line x1="60" y1="89.5" x2="70" y2="89.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip88_209_28713)">
+<line x1="79.5" y1="80" x2="79.5" y2="90" stroke="#444444"/>
+<line x1="70" y1="89.5" x2="80" y2="89.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip89_209_28713)">
+<line x1="89.5" y1="80" x2="89.5" y2="90" stroke="#444444"/>
+<line x1="80" y1="89.5" x2="90" y2="89.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip90_209_28713)">
+<line x1="99.5" y1="80" x2="99.5" y2="90" stroke="#444444"/>
+<line x1="90" y1="89.5" x2="100" y2="89.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip91_209_28713)">
+<line x1="9.5" y1="90" x2="9.5" y2="100" stroke="#444444"/>
+<line y1="99.5" x2="10" y2="99.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip92_209_28713)">
+<line x1="19.5" y1="90" x2="19.5" y2="100" stroke="#444444"/>
+<line x1="10" y1="99.5" x2="20" y2="99.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip93_209_28713)">
+<line x1="29.5" y1="90" x2="29.5" y2="100" stroke="#444444"/>
+<line x1="20" y1="99.5" x2="30" y2="99.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip94_209_28713)">
+<line x1="39.5" y1="90" x2="39.5" y2="100" stroke="#444444"/>
+<line x1="30" y1="99.5" x2="40" y2="99.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip95_209_28713)">
+<line x1="49.5" y1="90" x2="49.5" y2="100" stroke="#444444"/>
+<line x1="40" y1="99.5" x2="50" y2="99.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip96_209_28713)">
+<line x1="59.5" y1="90" x2="59.5" y2="100" stroke="#444444"/>
+<line x1="50" y1="99.5" x2="60" y2="99.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip97_209_28713)">
+<line x1="69.5" y1="90" x2="69.5" y2="100" stroke="#444444"/>
+<line x1="60" y1="99.5" x2="70" y2="99.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip98_209_28713)">
+<line x1="79.5" y1="90" x2="79.5" y2="100" stroke="#444444"/>
+<line x1="70" y1="99.5" x2="80" y2="99.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip99_209_28713)">
+<line x1="89.5" y1="90" x2="89.5" y2="100" stroke="#444444"/>
+<line x1="80" y1="99.5" x2="90" y2="99.5" stroke="#444444"/>
+</g>
+<g clip-path="url(#clip100_209_28713)">
+<line x1="99.5" y1="90" x2="99.5" y2="100" stroke="#444444"/>
+<line x1="90" y1="99.5" x2="100" y2="99.5" stroke="#444444"/>
+</g>
+<circle cx="0.5" cy="100.5" r="7.5" stroke="#F3CBDE" stroke-width="2"/>
+<circle cx="100.5" cy="0.5" r="7.5" stroke="#F3CBDE" stroke-width="2"/>
+<circle cx="0.5" cy="0.5" r="7.5" stroke="#F3CBDE" stroke-width="2"/>
+<path d="M43.6519 -7.44812C44.1998 -8.0195 45.1629 -7.75789 45.3464 -6.98782L48.0956 4.5474C48.2716 5.28572 47.5932 5.94324 46.8607 5.74427L35.9039 2.76794C35.1715 2.56897 34.919 1.65859 35.4443 1.11077L43.6519 -7.44812Z" stroke="#F9F9F9" stroke-width="2"/>
+<rect x="59.9539" y="8" width="12" height="12" rx="1" transform="rotate(14.25 59.9539 8)" fill="#F3CBDE"/>
+<rect x="50.9438" y="51" width="12" height="12" rx="1" transform="rotate(35.3555 50.9438 51)" fill="#F9F9F9"/>
+<path d="M50.4928 30.4134L50.4641 26.4638C50.4601 25.9115 50.9046 25.4605 51.4568 25.4565L54.4065 25.4351C54.9588 25.4311 55.4032 24.9802 55.3992 24.4279L55.3778 21.4783C55.3738 20.926 55.8183 20.475 56.3706 20.471L59.3202 20.4496C59.8725 20.4456 60.317 19.9947 60.313 19.4424L60.2916 16.4927C60.2876 15.9405 60.732 15.4895 61.2843 15.4855L65.2339 15.4569" stroke="#FFF09E" stroke-width="2" stroke-linecap="round"/>
+<path d="M-8.59259 68.2482L-7.04094 64.6159C-6.82397 64.1081 -6.23637 63.8722 -5.72849 64.0892L-3.01589 65.248C-2.508 65.465 -1.9204 65.2291 -1.70344 64.7212L-0.544633 62.0086C-0.327669 61.5008 0.259935 61.2649 0.767818 61.4819L3.48042 62.6407C3.9883 62.8577 4.5759 62.6218 4.79287 62.1139L5.95167 59.4013C6.16863 58.8935 6.75624 58.6576 7.26412 58.8746L10.8963 60.4262" stroke="#F9F9F9" stroke-width="2" stroke-linecap="round"/>
+<path d="M-10.5926 62.2482L-9.04094 58.6159C-8.82397 58.1081 -8.23637 57.8722 -7.72849 58.0892L-5.01589 59.248C-4.508 59.465 -3.9204 59.2291 -3.70344 58.7212L-2.54463 56.0086C-2.32767 55.5008 -1.74007 55.2649 -1.23218 55.4819L1.48042 56.6407C1.9883 56.8577 2.5759 56.6218 2.79287 56.1139L3.95167 53.4013C4.16863 52.8935 4.75624 52.6576 5.26412 52.8746L8.89632 54.4262" stroke="#F9F9F9" stroke-width="2" stroke-linecap="round"/>
+<path d="M77.0001 92.4408L80.2572 90.2067C80.7127 89.8943 81.3351 90.0103 81.6475 90.4657L83.316 92.8982C83.6284 93.3537 84.2509 93.4697 84.7063 93.1573L87.1388 91.4888C87.5943 91.1764 88.2167 91.2924 88.5291 91.7478L90.1976 94.1804C90.51 94.6358 91.1324 94.7518 91.5879 94.4394L94.0204 92.7709C94.4759 92.4585 95.0983 92.5745 95.4107 93.0299L97.6448 96.2871" stroke="#D8CBF3" stroke-width="2" stroke-linecap="round"/>
+<path d="M78.0001 87.4408L81.2572 85.2067C81.7127 84.8943 82.3351 85.0103 82.6475 85.4657L84.316 87.8982C84.6284 88.3537 85.2509 88.4697 85.7063 88.1573L88.1388 86.4888C88.5943 86.1764 89.2167 86.2924 89.5291 86.7478L91.1976 89.1804C91.51 89.6358 92.1324 89.7518 92.5879 89.4394L95.0204 87.7709C95.4759 87.4585 96.0983 87.5745 96.4107 88.0299L98.6448 91.2871" stroke="#D8CBF3" stroke-width="2" stroke-linecap="round"/>
+<path d="M69.7045 36.0871C70.2957 35.5607 71.2352 35.8974 71.3575 36.6795L73.1893 48.3955C73.3065 49.1454 72.5784 49.7474 71.8639 49.4913L61.1757 45.661C60.4612 45.4049 60.2812 44.4774 60.848 43.9727L69.7045 36.0871Z" stroke="#F3CBDE" stroke-width="2"/>
+<path d="M17.7045 16.0871C18.2957 15.5607 19.2352 15.8974 19.3575 16.6795L21.1893 28.3955C21.3065 29.1454 20.5784 29.7474 19.8639 29.4913L9.17566 25.661C8.46116 25.4049 8.28118 24.4774 8.84804 23.9727L17.7045 16.0871Z" fill="#D8CBF3"/>
+<circle cx="40.5" cy="60.5" r="7.5" stroke="#D8CBF3" stroke-width="2"/>
+<circle cx="41.5" cy="89.5" r="7.5" fill="#FFF09E"/>
+<circle cx="90.5" cy="67.5" r="7.5" fill="#D8CBF3"/>
+<path d="M91.3037 68.2482L92.8553 64.6159C93.0723 64.1081 93.6599 63.8722 94.1678 64.0892L96.8804 65.248C97.3882 65.465 97.9758 65.2291 98.1928 64.7212L99.3516 62.0086C99.5686 61.5008 100.156 61.2649 100.664 61.4819L103.377 62.6407C103.885 62.8577 104.472 62.6218 104.689 62.1139L105.848 59.4013C106.065 58.8935 106.652 58.6576 107.16 58.8746L110.793 60.4262" stroke="#F9F9F9" stroke-width="2" stroke-linecap="round"/>
+<path d="M89.3037 62.2482L90.8553 58.6159C91.0723 58.1081 91.6599 57.8722 92.1678 58.0892L94.8804 59.248C95.3882 59.465 95.9758 59.2291 96.1928 58.7212L97.3516 56.0086C97.5686 55.5008 98.1562 55.2649 98.6641 55.4819L101.377 56.6407C101.885 56.8577 102.472 56.6218 102.689 56.1139L103.848 53.4013C104.065 52.8935 104.652 52.6576 105.16 52.8746L108.793 54.4262" stroke="#F9F9F9" stroke-width="2" stroke-linecap="round"/>
+<rect x="15.9539" y="22" width="12" height="12" rx="1" transform="rotate(14.25 15.9539 22)" stroke="#F3CBDE" stroke-width="2"/>
+<circle cx="100.5" cy="100.5" r="7.5" stroke="#F3CBDE" stroke-width="2"/>
+<path d="M43.6519 92.5519C44.1998 91.9805 45.1629 92.2421 45.3464 93.0122L48.0956 104.547C48.2716 105.286 47.5932 105.943 46.8607 105.744L35.9039 102.768C35.1715 102.569 34.919 101.659 35.4443 101.111L43.6519 92.5519Z" stroke="#F9F9F9" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_209_28713">
+<rect width="100" height="100" fill="white"/>
+</clipPath>
+<clipPath id="clip1_209_28713">
+<rect width="10" height="10" fill="white"/>
+</clipPath>
+<clipPath id="clip2_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(10)"/>
+</clipPath>
+<clipPath id="clip3_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(20)"/>
+</clipPath>
+<clipPath id="clip4_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(30)"/>
+</clipPath>
+<clipPath id="clip5_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(40)"/>
+</clipPath>
+<clipPath id="clip6_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(50)"/>
+</clipPath>
+<clipPath id="clip7_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(60)"/>
+</clipPath>
+<clipPath id="clip8_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(70)"/>
+</clipPath>
+<clipPath id="clip9_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(80)"/>
+</clipPath>
+<clipPath id="clip10_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(90)"/>
+</clipPath>
+<clipPath id="clip11_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(0 10)"/>
+</clipPath>
+<clipPath id="clip12_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(10 10)"/>
+</clipPath>
+<clipPath id="clip13_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(20 10)"/>
+</clipPath>
+<clipPath id="clip14_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(30 10)"/>
+</clipPath>
+<clipPath id="clip15_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(40 10)"/>
+</clipPath>
+<clipPath id="clip16_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(50 10)"/>
+</clipPath>
+<clipPath id="clip17_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(60 10)"/>
+</clipPath>
+<clipPath id="clip18_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(70 10)"/>
+</clipPath>
+<clipPath id="clip19_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(80 10)"/>
+</clipPath>
+<clipPath id="clip20_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(90 10)"/>
+</clipPath>
+<clipPath id="clip21_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(0 20)"/>
+</clipPath>
+<clipPath id="clip22_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(10 20)"/>
+</clipPath>
+<clipPath id="clip23_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(20 20)"/>
+</clipPath>
+<clipPath id="clip24_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(30 20)"/>
+</clipPath>
+<clipPath id="clip25_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(40 20)"/>
+</clipPath>
+<clipPath id="clip26_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(50 20)"/>
+</clipPath>
+<clipPath id="clip27_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(60 20)"/>
+</clipPath>
+<clipPath id="clip28_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(70 20)"/>
+</clipPath>
+<clipPath id="clip29_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(80 20)"/>
+</clipPath>
+<clipPath id="clip30_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(90 20)"/>
+</clipPath>
+<clipPath id="clip31_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(0 30)"/>
+</clipPath>
+<clipPath id="clip32_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(10 30)"/>
+</clipPath>
+<clipPath id="clip33_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(20 30)"/>
+</clipPath>
+<clipPath id="clip34_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(30 30)"/>
+</clipPath>
+<clipPath id="clip35_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(40 30)"/>
+</clipPath>
+<clipPath id="clip36_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(50 30)"/>
+</clipPath>
+<clipPath id="clip37_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(60 30)"/>
+</clipPath>
+<clipPath id="clip38_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(70 30)"/>
+</clipPath>
+<clipPath id="clip39_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(80 30)"/>
+</clipPath>
+<clipPath id="clip40_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(90 30)"/>
+</clipPath>
+<clipPath id="clip41_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(0 40)"/>
+</clipPath>
+<clipPath id="clip42_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(10 40)"/>
+</clipPath>
+<clipPath id="clip43_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(20 40)"/>
+</clipPath>
+<clipPath id="clip44_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(30 40)"/>
+</clipPath>
+<clipPath id="clip45_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(40 40)"/>
+</clipPath>
+<clipPath id="clip46_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(50 40)"/>
+</clipPath>
+<clipPath id="clip47_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(60 40)"/>
+</clipPath>
+<clipPath id="clip48_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(70 40)"/>
+</clipPath>
+<clipPath id="clip49_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(80 40)"/>
+</clipPath>
+<clipPath id="clip50_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(90 40)"/>
+</clipPath>
+<clipPath id="clip51_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(0 50)"/>
+</clipPath>
+<clipPath id="clip52_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(10 50)"/>
+</clipPath>
+<clipPath id="clip53_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(20 50)"/>
+</clipPath>
+<clipPath id="clip54_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(30 50)"/>
+</clipPath>
+<clipPath id="clip55_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(40 50)"/>
+</clipPath>
+<clipPath id="clip56_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(50 50)"/>
+</clipPath>
+<clipPath id="clip57_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(60 50)"/>
+</clipPath>
+<clipPath id="clip58_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(70 50)"/>
+</clipPath>
+<clipPath id="clip59_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(80 50)"/>
+</clipPath>
+<clipPath id="clip60_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(90 50)"/>
+</clipPath>
+<clipPath id="clip61_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(0 60)"/>
+</clipPath>
+<clipPath id="clip62_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(10 60)"/>
+</clipPath>
+<clipPath id="clip63_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(20 60)"/>
+</clipPath>
+<clipPath id="clip64_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(30 60)"/>
+</clipPath>
+<clipPath id="clip65_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(40 60)"/>
+</clipPath>
+<clipPath id="clip66_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(50 60)"/>
+</clipPath>
+<clipPath id="clip67_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(60 60)"/>
+</clipPath>
+<clipPath id="clip68_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(70 60)"/>
+</clipPath>
+<clipPath id="clip69_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(80 60)"/>
+</clipPath>
+<clipPath id="clip70_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(90 60)"/>
+</clipPath>
+<clipPath id="clip71_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(0 70)"/>
+</clipPath>
+<clipPath id="clip72_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(10 70)"/>
+</clipPath>
+<clipPath id="clip73_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(20 70)"/>
+</clipPath>
+<clipPath id="clip74_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(30 70)"/>
+</clipPath>
+<clipPath id="clip75_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(40 70)"/>
+</clipPath>
+<clipPath id="clip76_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(50 70)"/>
+</clipPath>
+<clipPath id="clip77_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(60 70)"/>
+</clipPath>
+<clipPath id="clip78_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(70 70)"/>
+</clipPath>
+<clipPath id="clip79_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(80 70)"/>
+</clipPath>
+<clipPath id="clip80_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(90 70)"/>
+</clipPath>
+<clipPath id="clip81_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(0 80)"/>
+</clipPath>
+<clipPath id="clip82_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(10 80)"/>
+</clipPath>
+<clipPath id="clip83_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(20 80)"/>
+</clipPath>
+<clipPath id="clip84_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(30 80)"/>
+</clipPath>
+<clipPath id="clip85_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(40 80)"/>
+</clipPath>
+<clipPath id="clip86_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(50 80)"/>
+</clipPath>
+<clipPath id="clip87_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(60 80)"/>
+</clipPath>
+<clipPath id="clip88_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(70 80)"/>
+</clipPath>
+<clipPath id="clip89_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(80 80)"/>
+</clipPath>
+<clipPath id="clip90_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(90 80)"/>
+</clipPath>
+<clipPath id="clip91_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(0 90)"/>
+</clipPath>
+<clipPath id="clip92_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(10 90)"/>
+</clipPath>
+<clipPath id="clip93_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(20 90)"/>
+</clipPath>
+<clipPath id="clip94_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(30 90)"/>
+</clipPath>
+<clipPath id="clip95_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(40 90)"/>
+</clipPath>
+<clipPath id="clip96_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(50 90)"/>
+</clipPath>
+<clipPath id="clip97_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(60 90)"/>
+</clipPath>
+<clipPath id="clip98_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(70 90)"/>
+</clipPath>
+<clipPath id="clip99_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(80 90)"/>
+</clipPath>
+<clipPath id="clip100_209_28713">
+<rect width="10" height="10" fill="white" transform="translate(90 90)"/>
+</clipPath>
+</defs>
+</svg>
