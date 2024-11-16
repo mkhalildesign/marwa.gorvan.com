@@ -4,5 +4,6 @@ title: 'marwa.gorvan.com'
 theme: 'PaperMod'
 params:
   disableThemeToggle: true
+  hideFooter: true
   homeInfoParams:
     Title: 
