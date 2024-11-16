@@ -7,20 +7,20 @@ params:
   hideFooter: true
   homeInfoParams:
     Title: Product designer with creative specialisation in UX within enterprise and process digital design.
-    Content: I am a product designer and creative specialising in UX and UI within enterprise and B2B platforms. I work on developing products and design systems, as well as occasionallly [writing](https://mkhalildesign.com).
+    Content: I am a product designer specialising in UX and design within enterprise and B2B platforms. I work on developing products and design systems, as well as occasionallly [writing](https://fancycatspyjamas.substack.com/).
     AlignSocialIconsTo: "center"
   blinkies:
     - name: 'LinkedIn'
-      url: 'https://linkedin.com/'
+      url: 'https://www.linkedin.com/in/marwa-gorvan-922a9955/'
       image: '/images/mg-blinkie-linkedin.gif'
     - name: 'Substack'
-      url: 'https://substack.com/'
+      url: 'https://fancycatspyjamas.substack.com/'
       image: '/images/mg-blinkie-substack.gif'
     - name: 'Medium'
-      url: 'https://medium.com/'
+      url: 'https://mkhalildesign.medium.com/'
       image: '/images/mg-blinkie-medium.gif'
     - name: 'Shop'
-      url: 'https://mkhalildesign.com/'
+      url: 'https://society6.com/a/artists/mkhalildesigns'
       image: '/images/mg-blinkie-shop.gif'
   contact:
     email: 'marwa@gorvan.com'
