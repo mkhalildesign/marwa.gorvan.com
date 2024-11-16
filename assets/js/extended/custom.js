@@ -1,8 +1,9 @@
 const jokes = [
-    "Why did the scarecrow win an award? Because he was outstanding in his field!",
-    "What do you call a fake noodle? An impasta!",
-    "Why did the coffee file a police report? It got mugged.",
-    "How does a penguin build its house? Igloos it together."
+    "★ Why did the scarecrow win an award? Because he was outstanding in his field ★",
+    "★ What should you never trust an atom? Because they make up everything ★",
+    "★ How does a penguin build its house? Igloos it together ★"
+    "★ A dung beetle walks into a bar and asks 'Is this stool taken?' ★",
+    "★ What do you call a cow with a twitch? Beef jerky ★",
 ];
 
 function getRandomJoke() {
