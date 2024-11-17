@@ -4,6 +4,7 @@ const jokes = [
     "★ How does a penguin build its house? Igloos it together ★",
     "★ A dung beetle walks into a bar and asks 'Is this stool taken?' ★",
     "★ What do you call a cow with a twitch? Beef jerky ★",
+    "★ What does a posh owl say? Whom ★"
 ];
 
 function getRandomJoke() {
