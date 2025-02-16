@@ -19,9 +19,9 @@ params:
     - name: 'Medium'
       url: 'https://mkhalildesign.medium.com/'
       image: '/images/mg-blinkie-medium.gif'
-    - name: 'Shop'
-      url: 'https://society6.com/a/artists/mkhalildesigns'
-      image: '/images/mg-blinkie-shop.gif'
+    - name: 'Bluesky'
+      url: 'https://bsky.app/profile/marwa.gorvan.com'
+      image: '/images/mg-blinkie-bluesky.gif'
   blinkiesHeight: 20
   contact:
     email: 'marwa@gorvan.com'

@@ -4,7 +4,9 @@ const jokes = [
     "★ How does a penguin build its house? Igloos it together ★",
     "★ A dung beetle walks into a bar and asks 'Is this stool taken?' ★",
     "★ What do you call a cow with a twitch? Beef jerky ★",
-    "★ What does a posh owl say? Whom ★"
+    "★ What does a posh owl say? Whom ★",
+    "★ What do Ironman and women have in common? They are both Fe-males ★",
+    "★ Did you hear the joke about Sodium? Na ★"
 ];
 
 function getRandomJoke() {
