@@ -4,6 +4,32 @@ body#top {
     background: url('/images/bg.svg');
 }
 
+body.list > .main {
+    background-color: transparent;
+}
+
+.main {
+    background-color: #fff2f7;
+}
+
+.post-single {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    color: #333;
+}
+
+.post-single .post-content {
+    color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+.post-single .post-content > h2, .post-single h1.post-title {
+    color: #333;
+}
+
 .home-info {
     background: #fff2f7;
     color: #333;
