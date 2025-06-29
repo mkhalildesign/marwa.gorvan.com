@@ -103,8 +103,12 @@ It also means your code should be clean, semantic, and standards-compliant, so i
 - Important to test on assistive technologies
 - Follow standard coding practices and stay up-to-date
 
-⋆˚｡⋆୨୧˚ Thank you for reading my work ˚୨୧⋆｡˚⋆
+⋆˚｡⋆୨୧˚**Thank you for reading my post** ˚୨୧⋆｡˚⋆
+
 You can find me elsewhere:
+
 [Back home](http://marwa.gorvan.com)
+
 [Bluesky](https://bsky.app/profile/marwa.gorvan.com)
+
 [Substack](https://fancycatspyjamas.substack.com/)
