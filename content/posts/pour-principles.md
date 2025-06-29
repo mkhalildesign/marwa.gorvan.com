@@ -1,6 +1,6 @@
 +++
 date = '2025-06-24T20:16:40Z'
-draft = 
+draft = 'false'
 title = 'Pour Principles'
 hiddenInHomeList = true
 +++
