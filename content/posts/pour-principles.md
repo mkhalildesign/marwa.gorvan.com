@@ -39,11 +39,14 @@ Appropriate colour contrast
 - Responsive design (if you can’t see it, it can’t be perceived)
 - Design pages that adapt to different devices and assistive tech as well as for screen readers and zoom functionality.
 
-![alt text](image.jpg)
+![Screen grab of BBC iplayer](mkhalildesign/marwa.gorvan.com/content/posts/img/Screenshot 2025-06-19 at 21.08.01.png)
+Here the BBC have used contrasting colours to ensure colour blind users can see the contrast between text and surfaces.
 
-![alt text](image.jpg)
+![Scren grab of YouTube videos with closed captions](mkhalildesign/marwa.gorvan.com/content/posts/img/Screenshot 2025-06-19 at 21.16.15.png)
+Videos should have closed captions for spoken content wherever possible to help those with hearing issues, this can also be useful in public spaces.
 
-![alt text](image.jpg)
+![YoutTube video with transcription next to it](mkhalildesign/marwa.gorvan.com/content/posts/img/Screenshot 2025-06-19 at 21.40.03.png)
+Content can also be transcribed. This example shows a transcription next to a video.
 
 ### Operable
 
@@ -61,8 +64,11 @@ Here are some things you can do to make your design operable:
     - Don’t use content that flashes more than three times per second 
 Ensure inputs are easy to use
 
-example
-eample
+![Website with skip link button](mkhalildesign/marwa.gorvan.com/content/posts/img/Screenshot 2025-06-19 at 22.43.36.png)
+This is an example of a skip link, the keyboard users can bypass the menu by pressing ‘tab’.
+
+![Website with focus order highlighted](mkhalildesign/marwa.gorvan.com/content/posts/img/Screenshot 2025-06-19 at 22.44.44.png)
+Focused elements must be indicated so users know where they are. Here the GDS use yellow, but blue rings are often used.
 
 ### Understandable
 
@@ -75,6 +81,9 @@ eample
 - Help users avoid and correct mistakes
 - Pages and components should have consistent behavior
 - Use existing behaviors where necessary and keep them consistent
+
+![GDS form with error message](mkhalildesign/marwa.gorvan.com/content/posts/img/Screenshot 2025-06-23 at 21.54.16.png)
+In this example by the GDS the language is simple and plain. Error messaging is next to the affected area to provide context, and offers guidance on how to correct the issue.
 
 > “Our digital products are littered with dead ends, meaningless error  codes, decipherable only to developers, and infuriating whimsy that leave our users frustrated and stuck.”
 
