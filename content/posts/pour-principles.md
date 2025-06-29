@@ -6,7 +6,7 @@ hiddenInHomeList = true
 +++
 # POUR principles and designing with accessibility in mind
 
-This is the blog post that accompanies my talk ‘POUR principles and designing with accessibility in mind’. I gave this talk at a LTUX London event in July 2025.
+This is the blog post that accompanies my talk ‘*POUR principles and designing with accessibility in mind*’. I gave this talk at a LTUX London event in July 2025.
 
 Accessibility is a tricky area to navigate, there are many grey areas that are open to interpretation and many conditions that must be catered for. The POUR framework can help simplify the process. This post is intended to help you apply this framework to your design in a thoughtful way to create human-centered intuitive products.
 
@@ -103,3 +103,8 @@ It also means your code should be clean, semantic, and standards-compliant, so i
 - Important to test on assistive technologies
 - Follow standard coding practices and stay up-to-date
 
+⋆˚｡⋆୨୧˚ Thank you for reading my work ˚୨୧⋆｡˚⋆
+You can find me elsewhere:
+[Back home](http://marwa.gorvan.com)
+[Bluesky](https://bsky.app/profile/marwa.gorvan.com)
+[Substack](https://fancycatspyjamas.substack.com/)
