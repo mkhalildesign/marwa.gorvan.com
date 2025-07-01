@@ -39,13 +39,13 @@ Appropriate colour contrast
 - Responsive design (if you can’t see it, it can’t be perceived)
 - Design pages that adapt to different devices and assistive tech as well as for screen readers and zoom functionality.
 
-![Screen grab of BBC iplayer](/Screenshot 2025-06-19 at 21.08.01.png)
+![Screen grab of BBC iplayer](/Screenshot%202025-06-19%20at%2021.08.01.png)
 Here the BBC have used contrasting colours to ensure colour blind users can see the contrast between text and surfaces.
 
-![Screen grab of YouTube videos with closed captions](/Screenshot 2025-06-19 at 21.16.15.png)
+![Screen grab of YouTube videos with closed captions](/Screenshot%202025-06-19%20at%2021.16.15.png)
 Videos should have closed captions for spoken content wherever possible to help those with hearing issues, this can also be useful in public spaces.
 
-![YouTube video with transcription next to it](/Screenshot 2025-06-19 at 21.40.03.png)
+![YouTube video with transcription next to it](/Screenshot%202025-06-19%20at%2021.40.03.png)
 Content can also be transcribed. This example shows a transcription next to a video.
 
 ### Operable
@@ -64,10 +64,10 @@ Here are some things you can do to make your design operable:
     - Don’t use content that flashes more than three times per second 
 Ensure inputs are easy to use
 
-![Website with skip link button](/Screenshot 2025-06-19 at 22.43.36.png)
+![Website with skip link button](/Screenshot%202025-06-19%20at%2022.43.36.png)
 This is an example of a skip link, the keyboard users can bypass the menu by pressing ‘tab’.
 
-![Website with focus order highlighted](/Screenshot 2025-06-19 at 22.44.44.png)
+![Website with focus order highlighted](/Screenshot%202025-06-19%20at%2022.44.44.png)
 Focused elements must be indicated so users know where they are. Here the GDS use yellow, but blue rings are often used.
 
 ### Understandable
@@ -82,7 +82,7 @@ Focused elements must be indicated so users know where they are. Here the GDS us
 - Pages and components should have consistent behavior
 - Use existing behaviors where necessary and keep them consistent
 
-![GDS form with error message](/Screenshot 2025-06-23 at 21.54.16.png)
+![GDS form with error message](/Screenshot%202025-06-23%20at%2021.54.16.png)
 In this example by the GDS the language is simple and plain. Error messaging is next to the affected area to provide context, and offers guidance on how to correct the issue.
 
 > “Our digital products are littered with dead ends, meaningless error  codes, decipherable only to developers, and infuriating whimsy that leave our users frustrated and stuck.”
