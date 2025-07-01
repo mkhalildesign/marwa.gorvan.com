@@ -26,8 +26,13 @@ body.list > .main {
     padding: 20px;
 }
 
-.post-single .post-content > h2, .post-single h1.post-title {
+.post-single .post-content > h3, .post-single .post-content > h2, .post-single h1.post-title {
     color: #333;
+    font-family: "Playfair Display", serif;
+}
+
+.post-single .post-content > h2 {
+    font-size: 30px;
 }
 
 .home-info {
