@@ -34,3 +34,7 @@ params:
     favicon: '/images/logo.png'
     favicon16x16: '/images/logo.png'
     favicon32x32: '/images/logo.png'
+  BookSection: '/'
+  BookLogo: '/images/logo.png'
+  BookSearch: false
+  Paginator: false

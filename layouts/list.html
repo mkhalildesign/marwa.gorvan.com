@@ -1,0 +1,28 @@
+{{ define "main" }}
+  <h1>
+    {{ partial "docs/title" . }}
+  </h1>
+  {{ range sort .Paginator.Pages }}
+  <article class="book-post markdown">
+    <h2>
+      <a href="{{ .RelPermalink }}">{{ partial "docs/title" . }}</a>
+    </h2>
+  </article>
+  {{ end }}
+{{ end }}
+
+{{ define "toc-container" }}
+<aside class="book-toc">
+  <div class="book-toc-content">
+    {{ template "toc" . }}
+  </div>
+</aside>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/taxonomy" . }}
+{{ end }}
+
+{{ define "footer" }}
+  {{ partial "docs/pagination.html" . }}
+{{ end }}
