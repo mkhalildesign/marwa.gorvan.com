@@ -1,7 +1,7 @@
 baseURL: 'https://marwa.gorvan.com/'
 languageCode: 'en-GB'
 title: 'marwa.gorvan.com'
-theme: 'PaperMod'
+theme: 'book'
 params:
   disableThemeToggle: true
   hideFooter: true
