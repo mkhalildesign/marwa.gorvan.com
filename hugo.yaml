@@ -7,7 +7,7 @@ params:
   hideFooter: true
   homeInfoParams:
     Title: Product designer and UX creative working within enterprise and digital design.
-    Content: I am a product designer specialising in UX and design within enterprise and B2B platforms. I work on developing products and design systems, as well as occasionallly [writing](https://fancycatspyjamas.substack.com/).
+    Content: I am a product designer specialising in UX and design within enterprise and B2B platforms. I work on developing products and design systems, as well as occasionally [writing](https://fancycatspyjamas.substack.com/).
     AlignSocialIconsTo: "center"
   blinkies:
     - name: 'LinkedIn'
@@ -22,6 +22,9 @@ params:
     - name: 'Bluesky'
       url: 'https://bsky.app/profile/marwa.gorvan.com'
       image: '/images/mg-blinkie-bluesky.gif'
+    - name: 'TriviaPostman'
+      url: 'https://triviapostman.com/'
+      image: '/images/mg-blinkie-tp.gif'
   blinkiesHeight: 20
   contact:
     email: 'marwa@gorvan.com'

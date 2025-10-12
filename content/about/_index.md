@@ -1,7 +1,8 @@
 ---
-title: "About Me"
+title: "About"
 tagline: "about"
 weight: 1
 ---
 
-# About Me
+# About
+
