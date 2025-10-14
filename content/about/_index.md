@@ -10,6 +10,8 @@ I am a product designer and UX creative working within enterprise and digital de
 
 On the side, I run [TriviaPostman](https://triviapostman.com/), an online store where you can download curated digital trivia quizzes. These fun general knowledge quizzes have been curated for quiz lovers and event hosts.
 
+⋆˚｡⋆୨୧⋆｡˚⋆
+
 {{% columns ratio="1:2" %}}
 - ### Published work
 *How colour impacts product design* - 8x8 - 2016
@@ -19,5 +21,7 @@ On the side, I run [TriviaPostman](https://triviapostman.com/), an online store 
 
 {{% /columns %}}
 
-## ⋆˚｡⋆୨୧˚ Work with me ˚୨୧⋆｡˚⋆
-I'm open to working,speaking, and writing opportunities, so feel free to reach out by email if you'd like to collaborate.
+⋆˚｡⋆୨୧⋆｡˚⋆
+
+## Work with me
+I'm open to working,speaking, and writing opportunities, so feel free to reach out by email if you'd like to collaborate. ★
