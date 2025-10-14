@@ -15,20 +15,36 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"budparr.language-hugo-vscode"
-			]
+				"budparr.language-hugo-vscode",
+				"yzhang.markdown-all-in-one",
+				"DavidAnson.vscode-markdownlint",
+				"shd101wyy.markdown-preview-enhanced",
+				"streetsidesoftware.code-spell-checker",
+				"redhat.vscode-yaml",
+				"bierner.markdown-emoji"
+			],
+				"settings": {
+					"[markdown]": {
+						"editor.wordWrap": "on",
+						"editor.quickSuggestions": {
+							"other": true,
+							"comments": true,
+							"strings": true
+						},
+						"editor.formatOnSave": true
+					},
+					"cSpell.enabled": true,
+					"cSpell.language": "en-GB",
+					"markdownlint.enabled": true,
+					"markdownlint.config": {
+						"MD013": false
+					},
+					"markdown-preview-enhanced.previewTheme": "github-light.css",
+					// Automatically apply available source fixes on save (includes markdownlint)
+					"editor.codeActionsOnSave": {
+						"source.fixAll": "always"
+					}
+				}
 		}
 	}
-
-	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
-
-	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [],
-
-	// Configure tool-specific properties.
-	// "customizations": {},
-
-	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
-	// "remoteUser": "root"
 }

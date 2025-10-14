@@ -5,8 +5,7 @@ layout: "single"
 weight: 2
 ---
 
-# Portfolio
-<pre style="background:none;">
+<pre style="background:none;border:none;">
               T~~
                |
               /"\

@@ -1,8 +1,7 @@
 ---
 title: "Writing"
 tagline: "writing"
-layout: "list"
+# layout: "list"
 weight: 5
 ---
-
-# Writing
+.

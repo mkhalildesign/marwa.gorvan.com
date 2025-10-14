@@ -1,11 +1,10 @@
 +++
-date = ''
+date = '2025-06-01 12:00:00'
 draft = 'false'
 title = 'POUR principles and designing with accessibility in mind'
 slug = 'pour-principles'
 hiddenInHomeList = true
 +++
-# POUR principles and designing with accessibility in mind
 
 This is the blog post that accompanies my talk ‘*POUR principles and designing with accessibility in mind*’. I gave this talk at an LTUX London event in July 2025.
 
@@ -22,6 +21,7 @@ The estimated population of disabled people in the UK is 25%, that is 16.9 milli
 ## What are POUR principles?
 
 The POUR principles are a foundational set of guidelines used to ensure web accessibility, as outlined in the Web Content Accessibility Guidelines (WCAG). POUR stands for:
+
 - Perceivable
 - Operable
 - Understandable
@@ -30,10 +30,11 @@ The POUR principles are a foundational set of guidelines used to ensure web acce
 ### Perceivable
 
 By making your designs ‘perceivable’ it ensures your content is accessible through multiple senses to make sure everyone can understand all elements of a design. Content should be available to at least one sense (sight, hearing, or touch). This can be done by:
+
 - Use sufficient colour contrast
-    - Avoid relying solely on colour to convey meaning (e.g. red is an error).
-    - Allow users to resize text up to 200% without loss of content or functionality.
-    - Use clear fonts and proper line spacing.
+  - Avoid relying solely on colour to convey meaning (e.g. red is an error).
+  - Allow users to resize text up to 200% without loss of content or functionality.
+  - Use clear fonts and proper line spacing.
 - Alt text on images
 - Captions and transcripts for videos
 - Responsive design
@@ -53,15 +54,16 @@ Content can also be transcribed. This example shows a transcription next to a vi
 ‘Operable’ focuses on the usability of the site and mandates that users can navigate your design with different technologies.
 
 Here are some things you can do to make your design operable:
-- Don’t rely on a mouse or a trackpad 
-    - Keyboard navigation - Users can navigate and interact with all elements using only the Tab, Enter, Arrow, and Spacebar keys
-    - Screen readers - They read out the content but it must be built properly
-    - Use visible focus indicators (outlines showing which element is selected)
+
+- Don’t rely on a mouse or a trackpad
+  - Keyboard navigation - Users can navigate and interact with all elements using only the Tab, Enter, Arrow, and Spacebar keys
+  - Screen readers - They read out the content but it must be built properly
+  - Use visible focus indicators (outlines showing which element is selected)
 - Have clear navigation that is consistent (have a focus order)
 - Include “Skip to Content” links so keyboard users can bypass menus
 - Allow for enough time to complete a task
 - Avoid seizure-inducing content
-    - Don’t use content that flashes more than three times per second 
+  - Don’t use content that flashes more than three times per second
 - Ensure inputs are easy to use
 
 ![Website with skip link button](/images/Screenshot%202025-06-19%20at%2022.43.36.png)
@@ -75,7 +77,7 @@ Focused elements must be indicated so users know where they are. Here the GDS us
 ‘Understandable’ is about clarity; it is important to keep language simple, create intuitive designs, and provide helpful error messages that guide users.
 
 - Make text readable and comprehensible
-    - The average reading level in the UK is estimated to be typical of a child in UK education at 9 years old
+  - The average reading level in the UK is estimated to be typical of a child in UK education at 9 years old
 - Use consistent and meaningful copy
 - Provide definitions and context where needed
 - Help users avoid and correct mistakes
