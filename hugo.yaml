@@ -41,3 +41,14 @@ params:
   BookLogo: '/images/logo.png'
   BookSearch: false
   Paginator: false
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    style: monokai
+    lineNos: true
+    lineNumbersInTable: true
+    guessSyntax: true
+    codeFences: true

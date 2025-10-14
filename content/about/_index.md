@@ -1,6 +1,7 @@
 ---
 title: "About"
 tagline: "about"
+layout: "single"
 weight: 1
 ---
 
@@ -11,11 +12,15 @@ On the side, I run TriviaPostman, an online store where you can download curated
 
 {{% columns ratio="1:2" %}}
 - ### Published work
-Name of post - Zeroheight
-Name of post - 8x8
 
-- ### Speaking 
-Topic name - Ladies that UX London - June 2025
+  Name of post - Zeroheight
+  
+  Name of post - 8x8
+
+- ### Speaking
+
+  Topic name - Ladies that UX London - June 2025
 {{% /columns %}}
+
 ## Work with me
 I'm open to working,speaking, and writing opportunities, so feel free to reach out by email if you'd like to collaborate.
