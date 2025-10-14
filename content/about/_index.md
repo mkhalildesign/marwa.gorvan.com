@@ -19,5 +19,5 @@ On the side, I run [TriviaPostman](https://triviapostman.com/), an online store 
 
 {{% /columns %}}
 
-## Work with me
+## ⋆˚｡⋆୨୧˚ Work with me ˚୨୧⋆｡˚⋆
 I'm open to working,speaking, and writing opportunities, so feel free to reach out by email if you'd like to collaborate.
