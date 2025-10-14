@@ -12,7 +12,6 @@ On the side, I run [TriviaPostman](https://triviapostman.com/), an online store 
 
 {{% columns ratio="1:2" %}}
 - ### Published work
-
 *How colour impacts product design* - 8x8 - 2016
 
 - ### Speaking 
