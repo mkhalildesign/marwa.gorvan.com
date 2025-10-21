@@ -2,12 +2,13 @@
 date = '2025-03-06 12:00:00'
 draft = 'false'
 title = 'Smile princess: Four feminist books recommendations for everyone'
-tag = ['Books']
+Tags = ['Books']
+Categories = ['Reviews']
 slug = 'smile-books'
 hiddenInHomeList = true
 +++
 
-{image here} 
+{image here}
 
 I can’t say this is the happiest list of book recommendations on the internet; but here are some of my most recent reads (and favourites) non-fiction feminist literature to make you angry at the patriarchy.
 
@@ -33,4 +34,3 @@ You can find me elsewhere:
 
 [Back home](http://marwa.gorvan.com)
 [Bluesky](https://bsky.app/profile/marwa.gorvan.com)
-

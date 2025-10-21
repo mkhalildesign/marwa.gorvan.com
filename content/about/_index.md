@@ -27,4 +27,4 @@ On the side, I run [TriviaPostman](https://triviapostman.com/), an online store 
 
 ## Work with me
 
-I'm open to working,speaking, and writing opportunities, so feel free to reach out by email if you'd like to collaborate. ★
+I'm open to working, speaking, and writing opportunities, so feel free to reach out by email if you'd like to collaborate. ★
