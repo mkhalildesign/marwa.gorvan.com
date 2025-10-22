@@ -2,7 +2,7 @@
 date = '2025-02-26 12:00:00'
 draft = 'false'
 title = 'There is no such thing as a free design system'
-tag = ['Design System',]
+tag = ['Design System','Design','Enterprise']
 Categories = ['Design System']
 slug = 'no-such-thing-as-a-free-design-system'
 hiddenInHomeList = true
