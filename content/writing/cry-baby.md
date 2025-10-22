@@ -4,10 +4,10 @@ draft = 'false'
 title = 'Did you call my baby ugly?'
 Tags = ['Feedback','Design']
 Categories = ['Satire']
-slug = 'smile-books'
+slug = 'cry-baby'
 hiddenInHomeList = true
 +++
-![Cry Baby Wade Walker sheds a tear](mkhalildesign/marwa.gorvan.com/content/writing/images/cry-baby.webp)
+![Cry Baby Wade Walker sheds a tear](images/cry-baby.webp)
 
 People can often get enamoured by their own ideas, and it can be challenging as you might be met with defensiveness (should you not agree with them). In my experience this can cause conflict, giving critique and offering feedback is a skill that can be developed. Here are a few things that have helped me not call people’s metaphorical babies ugly.
 
