@@ -7,8 +7,11 @@ Categories = ['Events']
 slug = 'pour-principles'
 hiddenInHomeList = true
 +++
+⋆˚｡⋆୨୧⋆｡˚⋆
 
-> This is the blog post that accompanies my talk ‘*POUR principles and designing with accessibility in mind*’. I gave this talk at an LTUX London event in July 2025.
+ _This is the blog post that accompanies my talk ‘*POUR principles and designing with accessibility in mind*’. I gave this talk at an LTUX London event in July 2025._
+
+ ⋆˚｡⋆୨୧⋆｡˚⋆
 
 Accessibility is a tricky area to navigate; there are many grey areas that are open to interpretation and many conditions that must be catered for. The POUR framework can help simplify the process. This post is intended to help you apply this framework to your design in a thoughtful way to create human-centered intuitive products.
 
