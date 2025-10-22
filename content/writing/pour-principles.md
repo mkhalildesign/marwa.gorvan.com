@@ -3,7 +3,7 @@ date = '2025-06-01 12:00:00'
 draft = 'false'
 title = 'POUR principles and designing with accessibility in mind'
 Tags = ['Accessibility','Ladies that UX','POUR']
-Categories = ['Event']
+Categories = ['Events']
 slug = 'pour-principles'
 hiddenInHomeList = true
 +++
