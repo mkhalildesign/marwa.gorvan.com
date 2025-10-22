@@ -7,8 +7,7 @@ Categories = ['Satire']
 slug = 'smile-books'
 hiddenInHomeList = true
 +++
-
-{image here}
+![Cry Baby Wade Walker sheds a tear](mkhalildesign/marwa.gorvan.com/content/writing/images/cry-baby.webp)
 
 People can often get enamoured by their own ideas, and it can be challenging as you might be met with defensiveness (should you not agree with them). In my experience this can cause conflict, giving critique and offering feedback is a skill that can be developed. Here are a few things that have helped me not call people’s metaphorical babies ugly.
 
@@ -56,9 +55,3 @@ Design: “I’m not sure that design solves the problem…”
 
 
 ⋆˚｡⋆୨୧˚**Thank you for reading my post** ˚୨୧⋆｡˚⋆
-
-You can find me elsewhere:
-
-[Back home](http://marwa.gorvan.com)
-
-[Bluesky](https://bsky.app/profile/marwa.gorvan.com)

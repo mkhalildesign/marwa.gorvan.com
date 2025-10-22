@@ -2,7 +2,7 @@
 date = '2025-06-02 12:00:00'
 draft = 'false'
 title = 'POUR principles and designing with accessibility in mind'
-Tags = ['Accessibility','Ladies that UX','POUR']
+Tags = ['Accessibility','Ladies that UX','POUR','Design']
 Categories = ['Events']
 slug = 'pour-principles'
 hiddenInHomeList = true
@@ -111,11 +111,3 @@ It also means your code should be clean, semantic, and standards-compliant, so i
 - Follow standard coding practices and stay up-to-date
 
 ⋆˚｡⋆୨୧˚**Thank you for reading my post** ˚୨୧⋆｡˚⋆
-
-You can find me elsewhere:
-
-[Back home](http://marwa.gorvan.com)
-
-[Bluesky](https://bsky.app/profile/marwa.gorvan.com)
-
-[Substack](https://fancycatspyjamas.substack.com/)
