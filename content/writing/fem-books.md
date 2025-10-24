@@ -8,7 +8,7 @@ slug = 'smile-books'
 hiddenInHomeList = true
 +++
 
-{image here}
+![Princess Bubblegum](/images/pb.gif)
 
 I can’t say this is the happiest list of book recommendations on the internet; but here are some of my most recent reads (and favourites) non-fiction feminist literature to make you angry at the patriarchy.
 
