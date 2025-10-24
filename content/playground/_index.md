@@ -11,4 +11,4 @@ Projects to add
 - [ ] Fancy Cat's Pyjamas worksheets
 - [ ] Personal portfolio website
 
-![Princess Bubblegum](film-test-01b.png)
+![Princess Bubblegum](images/film-test-01b.png)
