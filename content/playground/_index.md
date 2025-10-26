@@ -1,14 +1,7 @@
 ---
 title: "Playground"
 tagline: "playground"
-layout: "single"
+# layout: "list"
 weight: 3
 ---
-
-Projects to add
-
-- [ ] Labour of love: Maternity project
-- [ ] Fancy Cat's Pyjamas worksheets
-- [ ] Personal portfolio website
-
-![Princess Bubblegum](/images/thumb-FCP.jpg)
+.
