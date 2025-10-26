@@ -1,5 +1,5 @@
 +++
-date = '2025-10-2269 12:00:00'
+date = '2025-10-26 12:00:00'
 draft = 'false'
 title = 'Test case study'
 Tags = ['Feedback','Design']
