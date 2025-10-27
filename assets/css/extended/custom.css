@@ -136,7 +136,7 @@ footer.entry-footer p a {
     text-align: center;
 }
 
-a {
+a, nav ul a {
     color: #2B66A1;
     cursor: pointer;
     text-decoration: underline;
@@ -146,7 +146,7 @@ a:hover {
     color: black;
 }
 
-a:visited {
+a:visited, nav ul a:visited {
     color: #69289E;
 }
 
