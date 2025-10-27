@@ -8,7 +8,7 @@ slug = 'no-such-thing-as-a-free-design-system'
 hiddenInHomeList = true
 +++
 
-{image here}
+![Care Bears creating a free design system](/images/unite-carebear.gif)
 
 Working in the corporate industry has taught me many things, one of the most challenging lessons to learn was how to deal with minimal support and resources. The unfortunate truth is that there are many underfunded or undersold projects; as a design system designer this has never felt more true.
 
@@ -40,7 +40,3 @@ Although this approach to building a design system has some hidden costs associa
 
 ⋆˚｡⋆୨୧˚**Thank you for reading my post** ˚୨୧⋆｡˚⋆
 
-You can find me elsewhere:
-
-[Back home](http://marwa.gorvan.com)
-[Bluesky](https://bsky.app/profile/marwa.gorvan.com)
