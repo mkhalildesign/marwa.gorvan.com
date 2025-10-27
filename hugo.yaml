@@ -41,6 +41,7 @@ params:
   BookLogo: '/images/logo.png'
   BookSearch: false
   Paginator: false
+  BookToC: true
 markup:
   goldmark:
     renderer:

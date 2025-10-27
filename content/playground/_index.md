@@ -1,7 +1,8 @@
 ---
 title: "Playground"
 tagline: "playground"
-# layout: "list"
+layout: "list"
 weight: 3
+bookToC: false
 ---
 .
