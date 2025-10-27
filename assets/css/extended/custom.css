@@ -137,7 +137,7 @@ footer.entry-footer p a {
 }
 
 a {
-    color: rgb(51, 102, 153);
+    color: #2B66A1;
     cursor: pointer;
     text-decoration: underline;
 }
@@ -147,7 +147,7 @@ a:hover {
 }
 
 a:visited {
-    color: purple;
+    color: #69289E;
 }
 
 @-moz-keyframes scroll-left {
