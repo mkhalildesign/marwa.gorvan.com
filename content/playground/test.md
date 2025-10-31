@@ -5,7 +5,7 @@ title = 'My personal website'
 slug = 'personal-website'
 hiddenInHomeList = true
 +++
-![Website design](/images/play-website-01)
+![Website design](/images/play-website-01.png)
 - Year: 2024
 - Skill: Content design, Web design
 - Tools: Fimga, Github
