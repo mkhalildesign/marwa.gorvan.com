@@ -1,7 +1,7 @@
 +++
 date = '2025-10-26 12:00:00'
 draft = 'true'
-title = 'Fancy Cat's Pyjama'
+title = 'Fancy Cats Pyjama'
 slug = 'fancy-cats-pyjamas'
 hiddenInHomeList = true
 +++
