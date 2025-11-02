@@ -16,7 +16,7 @@ On the side, I run [TriviaPostman](https://triviapostman.com/), an online store 
 
 - ## Published work
 
-  [*The Unposted*](https://substack.com/home/post/p-161601170) - Work Unseen - 2025
+  [The Unposted](https://substack.com/home/post/p-161601170) - Work Unseen - 2025
   *How colour impacts product design* - 8x8 - 2016
 
 - ## Speaking
