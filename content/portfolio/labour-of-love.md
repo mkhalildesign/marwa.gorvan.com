@@ -48,14 +48,14 @@ Part of the problem with the current process was the lack of question standardis
 Accessibility was important in the project as I wanted this design to cater to as many mothers as possible. To make sure I achieved this I used the Government Digital Service standards and made sure the UX writing was clear and didn’t use medical jargon unnecessarily. I made sure the colour contrast was fit for current standards, as well as that I separated the form into one question per page to reduce information overload.
 
 
-### Challenges
+## Challenges
 - Organising and splitting the information into understandable sections
 - Showing and hiding the appropriate information at the right time
 - Asking sensitive questions at the the appropriate time
 - Getting accurate information when there are a lot of questions
 
 ![Preview of some final screens](/images/port-mat-preview.png)
-### Outcomes
+## Outcomes
 The outcome was an entire design flow with questions being grouped into appropriate sections. The questions and copy was re-written to ask questions in a non-bias way, some questions needed medical jargon, however most did not. The questions would be asked as and when it is needed, the dynamic form meant that the expectant mother would only see the questions she needed to answer. Summary pages were provided at the end of each section to allow the expectant mother to review her answers and edit them if necessary. The application process also had a start and end page to provide more context and information for the expectant mother.
 
 
