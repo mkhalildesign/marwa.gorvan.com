@@ -15,12 +15,12 @@ Typically the current solution is to go to your local hospital district's websit
 
 ## Problems
 ![General flow of self referral](/images/port-mat-flow.png)
-### Pain points for the midwives:
+### Pain points for the midwives
 - Lack of standard information
 - Manual input into hospital system
 - Some questions are not asked in the form but are asked in a follow up consultation
 
-### Pain points for the expectant mother:
+### Pain points for the expectant mother
 - A long list can seem daunting
 - Unnecessary questions seen
 - Information is not always displayed in a clear way
