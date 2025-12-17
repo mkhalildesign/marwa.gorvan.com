@@ -5,7 +5,6 @@ title = 'Labour of love: Unifying the maternity self registration form'
 slug = 'labour-of-love-maternity'
 hiddenInHomeList = true
 +++
-![Website design](/images/play-website-01.png)
 - Year: 2023
 - Skill: Content design, Web design, Design systems, GDS
 - Tools: Fimga, Sheets
