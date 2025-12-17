@@ -1,6 +1,6 @@
 +++
 date = '2025-10-26 12:00:00'
-draft = 'true'
+draft = 'false'
 title = 'Labour of love: Unifying the maternity self registration form'
 slug = 'labour-of-love-maternity'
 hiddenInHomeList = true
