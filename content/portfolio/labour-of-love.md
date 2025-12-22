@@ -9,6 +9,8 @@ hiddenInHomeList = true
 - Skill: Content design, Web design, Design systems, GDS
 - Tools: Fimga, Sheets
 
+![Preview header](/images/port-mat-header.png)
+
 My goal with this project was to create an online maternity self-referral service using the Government Digital Service system.
 
 Typically the current solution is to go to your local hospital district's website and self-refer by copying and pasting a list of questions and emailing the responses to the hospital. After that you would get a call from the midwife to go over all the information you had previously submitted as well as some additional, more personal, questions. After that, you receive your appointments with the hospital and the midwives. This process is repetitive and outdated, as well as that there are several pain points for the midwives and the expectant mothers.
