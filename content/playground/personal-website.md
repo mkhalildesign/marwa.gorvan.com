@@ -6,6 +6,7 @@ slug = 'personal-website'
 hiddenInHomeList = true
 +++
 ![Website design](/images/play-website-01.png)
+
 - Year: 2025
 - Skill: Content design, Web design
 - Tools: Fimga, Github
