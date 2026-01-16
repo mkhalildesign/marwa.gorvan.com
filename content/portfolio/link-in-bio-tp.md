@@ -11,7 +11,7 @@ hiddenInHomeList = true
 - Tools: Lovable, Chat GPT
 
 
-![Final design](/images/port-link-in-bio-03.png)
+![Final design](/images/port-link-in-bio-tp-03.png)
 
 ## Overview
 TriviaPostman needed a way to drive traffic to its online shop and promote content from social media platforms. The objective was to create a simple and effective experience that could act as a central destination for users arriving from social channels, whilst remaining consistent with the brand’s visual identity.
@@ -22,11 +22,11 @@ I was responsible for the entire project end-to-end, including UX and UI design,
 
 ## Process
 
-![Initial wireframe](/images/port-link-in-bio-01.png)
+![Initial wireframe](/images/port-link-in-bio-tp-01.png)
 
 I used Lovable to generate an initial page layout as a starting point. From there, I refined the design through targeted prompting, adjusting content hierarchy, colours, and layout to better reflect TriviaPostman’s brand and goals.
 
-![Updated design](/images/port-link-in-bio-02.png)
+![Updated design](/images/port-link-in-bio-tp-02.png)
 
 One of the primary design decisions was to keep the page as a single, static experience. This allowed for:
 - Faster load times
