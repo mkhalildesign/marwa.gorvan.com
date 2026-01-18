@@ -2,8 +2,8 @@
 date = '2024-11-29 12:00:00'
 draft = 'false'
 title = 'Did you call my baby ugly?'
-Tags = ['Feedback','Design']
-Categories = ['Satire']
+Tags = ['Feedback','Satire']
+Categories = ['Design']
 slug = 'cry-baby'
 hiddenInHomeList = true
 +++
