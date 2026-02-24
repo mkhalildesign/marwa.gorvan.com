@@ -12,7 +12,6 @@ On the side, I run [TriviaPostman](https://triviapostman.com/), an online store 
 
 ⋆˚｡⋆୨୧⋆｡˚⋆
 
-{{% columns ratio="1:2" %}}
 
 - ## Published work
 
@@ -24,7 +23,6 @@ On the side, I run [TriviaPostman](https://triviapostman.com/), an online store 
 - ## Speaking
 
   * *POUR principles and designing with accessibility in mind* - Ladies that UX London - June 2025
-{{% /columns %}}
 
 ⋆˚｡⋆୨୧⋆｡˚⋆
 
