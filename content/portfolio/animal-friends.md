@@ -1,11 +1,11 @@
 +++
-date = '2025-12-22 12:00:00'
+date = '2026-05-19 12:00:00'
 draft = 'true'
 title = 'Unlikely Animal Friends: Creative block gone'
 slug = 'unlikely-animal-friends'
 hiddenInHomeList = true
 +++
-- Year: 2025
+- Year: 2026
 - Skill: Content design, Web design, Code, AI
 - Tools: Chat GPT, VS Code
 
