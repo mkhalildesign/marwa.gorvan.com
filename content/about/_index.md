@@ -22,6 +22,7 @@ On the side, I run [TriviaPostman](https://triviapostman.com/), an online store 
 
 ## Speaking
 
+  * *Designing with Aphantasia* - Pixel Pioneers - June 2026
   * *POUR principles and designing with accessibility in mind* - Ladies that UX London - June 2025
 
 ⋆˚｡⋆୨୧⋆｡˚⋆
