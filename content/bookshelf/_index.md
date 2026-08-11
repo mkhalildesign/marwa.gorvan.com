@@ -8,18 +8,24 @@ bookToC: false
 
 Books I've read recently :D
 
-⋆˚｡⋆୨୧⋆｡˚⋆
-
 ### 2026
 ![Progress](https://api.barbuilder.dev/icon/5/5?color=222222)
 1. Middlemarch by George Eliot
 
+
+⋆˚｡⋆୨୧⋆｡˚⋆
+
 ![Progress](https://api.barbuilder.dev/icon/4.5/5?color=222222)
 1. East of Eden  by John Steinbeck
+
+⋆˚｡⋆୨୧⋆｡˚⋆
 
 ![Progress](https://api.barbuilder.dev/icon/4/5?color=222222)
 1. The Wild Robot by Peter Brown
 2. The New Age of Sexism by Laura Bates
+
+
+⋆˚｡⋆୨୧⋆｡˚⋆
 
 ![Progress](https://api.barbuilder.dev/icon/3.5/5?color=222222)
 1. Curtain: Poirot's Last Case by Agatha Christie
@@ -36,6 +42,8 @@ Books I've read recently :D
 2. Hood Feminism by Mikki Kendall
 3. The Woman Destroyed by Simone de Beauvoir
 4. Victorian Psycho by Virginia Feito
+
+⋆˚｡⋆୨୧⋆｡˚⋆
 
 
 
