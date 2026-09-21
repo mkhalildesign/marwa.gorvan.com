@@ -1,11 +1,11 @@
 +++
 date = '2026-09-21 12:00:00'
-draft = 'true'
+draft = 'false'
 title = 'Design System Documentation in the Age of AI'
 Tags = ['Design','AI','System','Design System','Enterprise']
 Categories = ['AI']
 slug = 'design-system-documentation-in-the-age-of-ai'
-hiddenInHomeList = false
+hiddenInHomeList = true
 +++
 
 ![Rosey the Robot from the Jetsons](/images/robot-jetsons.gif)
