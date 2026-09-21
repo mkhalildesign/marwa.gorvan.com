@@ -35,6 +35,8 @@ Books I've read recently :D
 6. *Why Women Have Better Sex Under Socialism* by Kristen Ghodsee
 7. *The Inimitable Jeeves* by P. G. Wodehouse
 8. *The Female Eunuch* by Germaine Greer
+9. *The Wild Robot Escapes* by Peter Brown
+10. *The Invisible Man* by H.G. Wells
 
 #### ⋆˚｡⋆୨୧⋆｡˚⋆
 
