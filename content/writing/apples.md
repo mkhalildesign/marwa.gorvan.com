@@ -1,7 +1,7 @@
 +++
 date = '2026-09-22 12:00:00'
 draft = 'tfalserue'
-title = 'I don’t see it: Designing with Aphantasia'
+title = 'I don’t see it: Designing with aphantasia'
 Tags = ['Design','AI','Aphantasia','Enterprise','Design System']
 Categories = ['Events']
 slug = 'designing-with-aphantasia'
